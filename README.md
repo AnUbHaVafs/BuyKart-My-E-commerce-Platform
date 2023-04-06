@@ -1,4 +1,4 @@
-## BuyKart : An Ecommerce Platform
+## BuyKart : An E-commerce Platform
 
 Visit Here : https://buykart-withjs.netlify.app/
 
