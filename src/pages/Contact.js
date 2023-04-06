@@ -77,12 +77,12 @@ const Contact = () => {
                                         </li>
                                         <li className="mb-3 d-flex gap-15 align-items-center">
                                             <BiPhoneCall className="fs-5" />
-                                            <a href="tel:+91 8264954234">+91 8264954234</a>
+                                            <a href="tel:+91 8445480266">+91 8445480266</a>
                                         </li>
                                         <li className="mb-3 d-flex gap-15 align-items-center">
                                             <AiOutlineMail className="fs-5" />
-                                            <a href="mailto:navdeepdahiya753@gmail.com">
-                                                navdeepdahiya753@gmail.com
+                                            <a href="mailto:annubhav002@gmail.com">
+                                                annubhav002@gmail.com
                                             </a>
                                         </li>
                                         <li className="mb-3 d-flex gap-15 align-items-center">

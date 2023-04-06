@@ -35,23 +35,23 @@ const Footer = () => {
                 <div className="container-xxl">
                     <div className="row">
                         <div className="col-4">
-                            <h4 className="text-white mb-4">Contact Us</h4>
+                            <h4 className="text-white mb-4">Contact Me</h4>
                             <div>
                                 <address className="text-white fs-6">
-                                    Hno : 277 Near Vill chopal, <br /> Sonipat, Haryana <br />
-                                    PinCode: 131103
+                                    Arjun Nagar, <br /> Agra, Uttar Pradesh <br />
+                                    PinCode: 282001
                                 </address>
                                 <a
-                                    href="tel:+91 8264954234"
+                                    href="tel:+91 8445480266"
                                     className="mt-3 d-block mb-1 text-white"
                                 >
-                                    +91 8264954234
+                                    +91 8445480266
                                 </a>
                                 <a
-                                    href="mailto:navdeepdahiya753@gmail.com"
+                                    href="mailto:annubhav002@gmail.com"
                                     className="mt-2 d-block mb-0 text-white"
                                 >
-                                    navdeepdahiya753@gmail.com
+                                    annubhav002@gmail.com
                                 </a>
                                 <div className="social_icons d-flex align-items-center gap-30 mt-4">
                                     <a className="text-white" href="#">
