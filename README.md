@@ -1,7 +1,8 @@
 ## BuyKart : An E-commerce Platform
 
 Visit Here : https://buykart-withjs.netlify.app/
-(Note : Currently Working)
+<br/>
+(Currently Working)
 
 ![Screenshot (2251)](https://user-images.githubusercontent.com/76126067/230479237-b6b22309-1726-4f62-9f1a-ce8a3becbe7c.png)
 ![Screenshot (2214)](https://user-images.githubusercontent.com/76126067/230479265-db63a32d-581c-493f-adef-ce29e7fa2c2e.png)
